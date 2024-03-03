@@ -92,7 +92,7 @@ Also the same with properties:
 | `stroke-dashoffset`| `strokeDashoffset`    |
 
 
-## 3 Add your icon component to any any screen you want 
+## 3 Add your icon component to any screen you want 
 now just import your component , example: 
 
 ``` javascript
